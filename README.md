@@ -1,7 +1,7 @@
 # Data
 
 #pollution_newcastle.csv
-Data from #download data from https://uk-air.defra.gov.uk/data/pcm-data from 2015 exacted at Newcastle level using nspl 
+Data from https://uk-air.defra.gov.uk/data/pcm-data from 2015 exacted at Newcastle level using nspl 
 data from http://ons.maps.arcgis.com/home/item.html?id=033fe73e742e4161adc8ae6cdb5dbe08. 
 
 
